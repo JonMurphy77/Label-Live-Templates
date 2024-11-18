@@ -1,0 +1,111 @@
+{
+  "version": "2.12.2-Win",
+  "path": "F:\\SJ Software Solutions\\Label-Live-Templates\\DespatchCheckingLabel.lsc",
+  "labelConfig": {
+    "rulerEnabled": false,
+    "showGrid": false,
+    "snapToGrid": 0,
+    "printLabelBackground": false,
+    "heightMeasure": "100",
+    "widthMeasure": "100",
+    "roundPercent": 0.035,
+    "shape": {
+      "rotate": false,
+      "barWidth": null,
+      "barHeight": null,
+      "tWidth": null,
+      "inRadiusPercent": null
+    },
+    "backgroundImage": null,
+    "dpi": 300,
+    "rotate": false,
+    "rotate180": false,
+    "metric": true,
+    "printerConfig": {
+      "SHEET_MARGIN_TOP": "13.005",
+      "SHEET_SIZE_HEIGHT": "279.4",
+      "DPI_MODE": 300,
+      "SHEET_SIZE_WIDTH": "215.9",
+      "SHEET_MARGIN_RIGHT": "0",
+      "SHEET_SPACING_H": "3.81",
+      "SHEET_SIZE_SCALE": "1",
+      "SHEET_MARGIN_LEFT": "4.242",
+      "MOCK_MODE": "MOCK_MODE_PRINT",
+      "SHEET_SPACING_V": "0",
+      "SHEET_MARGIN_BOTTOM": "0",
+      "COLOR_MODE": "COLOR_MODE_1C"
+    },
+    "ditherKind": "DITHER_KIND_THRESHOLD",
+    "ditherConfig": {},
+    "originX": "left",
+    "originY": "top",
+    "userContinuous": false,
+    "autosizeOnPrint": true,
+    "marginTopMultiplier": 0,
+    "marginBottomMeasure": "0"
+  },
+  "canvasRecord": {
+    "objects": [],
+    "fabricRep": {
+      "version": "5.3.0",
+      "objects": []
+    },
+    "stateUuid": "ff8aaeeb-8400-42f4-b1ae-9c423ac62172",
+    "drawing": false,
+    "lockMovement": false,
+    "fill": "#FEFFFF",
+    "ink": "#000000",
+    "variables": [],
+    "variablesCached": [],
+    "import": null
+  },
+  "ui": {
+    "windowName": "b1fb36ff-dfdd-4a1c-80ac-60572967eb7d",
+    "pinnedDocs": [],
+    "pinnedDocsMeta": {},
+    "recentDocs": [],
+    "recentDocsMeta": {},
+    "tabIndex": 1,
+    "dataTabIndex": 0,
+    "helpSettingsIndex": null,
+    "gpuEnabled": true,
+    "winStoreTrial": null,
+    "renderCount": 0,
+    "usbAvailable": true,
+    "formPrintOnEnter": true,
+    "formPrintCopyVariable": null,
+    "formClearOnPrint": false,
+    "frozen": false
+  },
+  "live": {
+    "enabled": false,
+    "topic": ""
+  },
+  "hashes": {
+    "_labelConfig": "OTIyMjU4MTcw",
+    "_canvasRecord": "LTU3MTcxNzk2Mg==",
+    "_ui": "LTQ2NzQyODc3NQ==",
+    "_live": "LTYxODIwNDg3NA=="
+  },
+  "printerId": "MockImage",
+  "printerNickname": null,
+  "dataImport": {
+    "editing": false,
+    "selecting": false,
+    "renderUid": null,
+    "header": [],
+    "data": [],
+    "selectedRow": -1,
+    "source": null,
+    "dataSource": null,
+    "timestamp": 0,
+    "autoImport": true,
+    "batchPath": null,
+    "matchFromStart": false,
+    "caseSensitive": false
+  },
+  "printLog": {
+    "enabled": false,
+    "path": null
+  }
+}
